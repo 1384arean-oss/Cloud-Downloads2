@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2082",
+  "folder": "YouTube__watch_20260514101249_cac210",
+  "base_name": "Discussing_My_Beliefs_(Nihilism)_Uh0VLF4p7ow_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/1384arean-oss/Cloud-Downloads2/releases/tag/co-releases-v1-2082",
+  "files": [
+    {
+      "name": "Discussing_My_Beliefs_.Nihilism._Uh0VLF4p7ow_480p.mp4",
+      "url": "https://github.com/1384arean-oss/Cloud-Downloads2/releases/download/co-releases-v1-2082/Discussing_My_Beliefs_.Nihilism._Uh0VLF4p7ow_480p.mp4",
+      "api_url": "https://api.github.com/repos/1384arean-oss/Cloud-Downloads2/releases/assets/420066580",
+      "id": 420066580,
+      "size": 47301560,
+      "download_count": 0
+    }
+  ]
+}
