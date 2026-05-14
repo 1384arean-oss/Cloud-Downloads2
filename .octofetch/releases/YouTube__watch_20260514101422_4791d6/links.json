@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4715",
+  "folder": "YouTube__watch_20260514101422_4791d6",
+  "base_name": "I_Miss_Being_a_Goy_5E6SeIfMaWA_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/1384arean-oss/Cloud-Downloads2/releases/tag/co-releases-v1-4715",
+  "files": [
+    {
+      "name": "I_Miss_Being_a_Goy_5E6SeIfMaWA_480p.mp4",
+      "url": "https://github.com/1384arean-oss/Cloud-Downloads2/releases/download/co-releases-v1-4715/I_Miss_Being_a_Goy_5E6SeIfMaWA_480p.mp4",
+      "api_url": "https://api.github.com/repos/1384arean-oss/Cloud-Downloads2/releases/assets/420067730",
+      "id": 420067730,
+      "size": 59967993,
+      "download_count": 0
+    }
+  ]
+}
